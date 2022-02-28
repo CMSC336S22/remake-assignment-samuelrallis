@@ -1,5 +1,5 @@
 # remake
-Remake
+Centipede remake
 
 ## Play online
 https://cmsc336s22.github.io/remake-assignment-samuelrallis/
